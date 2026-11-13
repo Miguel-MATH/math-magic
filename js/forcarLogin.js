@@ -1,6 +1,6 @@
 function forcarLogin() {
     if (!Verificar()) {
-        window.location.href = "login.html"
+        window.location.href = "Login.html"
     }
 }
 
